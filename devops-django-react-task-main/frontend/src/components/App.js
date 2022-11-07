@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">HNGi9 DevOps Stage2 Task</h1>
         </header>
         <p className="App-intro">
-          This task was submitted by <b>Rockchip</b>
+          This task was submitted by <b>muustafa</b>
         </p>
       </div>
     );
